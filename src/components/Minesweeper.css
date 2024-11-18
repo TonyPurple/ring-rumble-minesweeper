@@ -1,0 +1,12 @@
+.wrestler-card {
+  transition: all 0.3s ease-in-out;
+}
+
+.wrestler-card:hover {
+  transform: scale(1.1);
+  background-color: #444;
+}
+
+.tile {
+  background-color: #444;
+}
